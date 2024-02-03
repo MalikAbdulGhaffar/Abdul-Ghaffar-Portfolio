@@ -719,6 +719,7 @@ section {
 .services .icon-box:hover .title a,
 .services .icon-box:hover .description {
   color: #fff;
+  cursor:default;
 }
 
 .services .icon-box:hover .icon {
